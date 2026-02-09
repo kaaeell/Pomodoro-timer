@@ -1,0 +1,10 @@
+# 🍅 Pomodoro Timer
+# No external dependencies! Just pure Python magic.
+#
+# What we use from Python's standard library:
+# - time: Makes the timer tick
+# - os: Clears your screen so it looks nice
+# - datetime: Keeps track of when you worked
+# - json: Saves your awesome progress
+#
+# That's literally it. Super simple, super powerful!
